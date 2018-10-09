@@ -7,8 +7,6 @@ public class Starter {
 		l_core.createElement();
 		l_core.createElement();
 		l_core.createElement();
-		l_core.createElement();
-		l_core.createElement();
 		l_core.finish();
 	}
 
