@@ -1,6 +1,8 @@
 package Elem;
-public abstract class element { 
-	protected Integer m_counter = 1; 
+
+public abstract class element {
+	protected Integer m_counter = 1;
+
 	public abstract void write();
 
 	/**
@@ -9,5 +11,5 @@ public abstract class element {
 	 */
 	public void addCounter(Integer i_add) {
 		m_counter = m_counter + i_add;
-	} 
+	}
 }
